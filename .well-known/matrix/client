@@ -1,0 +1,8 @@
+{
+    "m.homeserver": {
+        "base_url": "https://matrix.dill.moe"
+    },
+    "org.matrix.msc3575.proxy": {
+        "url": "https://sync.dill.moe"
+    }
+}
