@@ -1,1 +1,9 @@
-RWTD51FX+G2LAxVp58Hc3t4QT2WSTHjrWESvvlpkGfpyDFvTFxXvoAn8
+My Kryptor keys
+
+https://www.kryptor.co.uk/
+
+Encryption Public Key:
+Cu//YsiF8OYkqirK2804N8Mez7rT9HAQ5qNCkw8/9toU2wk=
+
+Signing Public Key:
+Ed//yMAsPulHpKk3SFu7EEyr/4QDKFo9/EhSR0CWuA6BnMg=
