@@ -3,59 +3,10 @@
     <title>dill.moe</title>
     <link href="https://dill.moe/feed.xml" rel="self" />
     <link href="https://dill.moe" />
-    <updated>2024-02-14T21:10:09-05:00</updated>
+    <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Cross Nastasi</name>
     </author>
     <id>https://dill.moe</id>
 
-    <entry>
-        <title>My Friends</title>
-        <author>
-            <name>Cross Nastasi</name>
-        </author>
-        <link href="https://dill.moe/my-friends/"/>
-        <id>https://dill.moe/my-friends/</id>
-
-        <updated>2024-02-14T20:56:53-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Miicat_47 - Website Ity - Website
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong>Miicat_47</strong> - <a href="https://miicat.eu/" target="_blank" rel="noopener noreferrer">Website</a></p>
-<p><strong>Ity</strong> - <a href="https://itycodes.org/" target="_blank" rel="noopener noreferrer">Website</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Social Links</title>
-        <author>
-            <name>Cross Nastasi</name>
-        </author>
-        <link href="https://dill.moe/social-links/"/>
-        <id>https://dill.moe/social-links/</id>
-
-        <updated>2024-02-14T21:10:09-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Facebook Instagram Threads YouTube GitHub Bluesky Duolingo Kitsu ListenBrainz
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://www.facebook.com/xdillfrescott/" target="_blank" rel="noopener noreferrer">Facebook</a></p>
-<p><a href="https://www.instagram.com/xdillfrescott/" target="_blank" rel="noopener noreferrer">Instagram</a></p>
-<p><a href="https://www.threads.net/@xdillfrescott" target="_blank" rel="noopener noreferrer">Threads</a></p>
-<p><a href="https://www.youtube.com/@dill-frescott" target="_blank" rel="noopener noreferrer">YouTube</a></p>
-<p><a href="https://github.com/dillfrescott" target="_blank" rel="noopener noreferrer">GitHub</a></p>
-<p><a href="https://bsky.app/profile/dill.moe" target="_blank" rel="noopener noreferrer">Bluesky</a></p>
-<p><a href="https://www.duolingo.com/profile/dillfrescott" target="_blank" rel="noopener noreferrer">Duolingo</a></p>
-<p><a href="https://kitsu.io/users/dill" target="_blank" rel="noopener noreferrer">Kitsu</a></p>
-<p><a href="https://listenbrainz.org/user/dillfrescott/" target="_blank" rel="noopener noreferrer">ListenBrainz</a></p>
-            ]]>
-        </content>
-    </entry>
 </feed>

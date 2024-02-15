@@ -10,33 +10,5 @@
         "name": "Cross Nastasi"
     },
     "items": [
-        {
-            "id": "https://dill.moe/my-friends/",
-            "url": "https://dill.moe/my-friends/",
-            "title": "My Friends",
-            "summary": "Miicat_47 - Website Ity - Website",
-            "content_html": "<p><strong>Miicat_47</strong> - <a href=\"https://miicat.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Website</a></p>\n<p><strong>Ity</strong> - <a href=\"https://itycodes.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Website</a></p>",
-            "author": {
-                "name": "Cross Nastasi"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-02-14T20:53:30-05:00",
-            "date_modified": "2024-02-14T20:56:53-05:00"
-        },
-        {
-            "id": "https://dill.moe/social-links/",
-            "url": "https://dill.moe/social-links/",
-            "title": "Social Links",
-            "summary": "Facebook Instagram Threads YouTube GitHub Bluesky Duolingo Kitsu ListenBrainz",
-            "content_html": "<p><a href=\"https://www.facebook.com/xdillfrescott/\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a></p>\n<p><a href=\"https://www.instagram.com/xdillfrescott/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a></p>\n<p><a href=\"https://www.threads.net/@xdillfrescott\" target=\"_blank\" rel=\"noopener noreferrer\">Threads</a></p>\n<p><a href=\"https://www.youtube.com/@dill-frescott\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a></p>\n<p><a href=\"https://github.com/dillfrescott\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a></p>\n<p><a href=\"https://bsky.app/profile/dill.moe\" target=\"_blank\" rel=\"noopener noreferrer\">Bluesky</a></p>\n<p><a href=\"https://www.duolingo.com/profile/dillfrescott\" target=\"_blank\" rel=\"noopener noreferrer\">Duolingo</a></p>\n<p><a href=\"https://kitsu.io/users/dill\" target=\"_blank\" rel=\"noopener noreferrer\">Kitsu</a></p>\n<p><a href=\"https://listenbrainz.org/user/dillfrescott/\" target=\"_blank\" rel=\"noopener noreferrer\">ListenBrainz</a></p>",
-            "author": {
-                "name": "Cross Nastasi"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-02-14T20:31:37-05:00",
-            "date_modified": "2024-02-14T21:10:09-05:00"
-        }
     ]
 }
