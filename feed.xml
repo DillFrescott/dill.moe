@@ -3,12 +3,33 @@
     <title>dill.moe</title>
     <link href="https://dill.moe/feed.xml" rel="self" />
     <link href="https://dill.moe" />
-    <updated>2024-02-14T20:34:21-05:00</updated>
+    <updated>2024-02-14T20:56:53-05:00</updated>
     <author>
         <name>Cross Nastasi</name>
     </author>
     <id>https://dill.moe</id>
 
+    <entry>
+        <title>My Friends</title>
+        <author>
+            <name>Cross Nastasi</name>
+        </author>
+        <link href="https://dill.moe/my-friends/"/>
+        <id>https://dill.moe/my-friends/</id>
+
+        <updated>2024-02-14T20:56:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Miicat_47 - Website Ity - Website
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Miicat_47</strong> - <a href="https://miicat.eu/" target="_blank" rel="noopener noreferrer">Website</a></p>
+<p><strong>Ity</strong> - <a href="https://itycodes.org/" target="_blank" rel="noopener noreferrer">Website</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Social Links</title>
         <author>
