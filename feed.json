@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dill.moe",
+    "description": "",
+    "home_page_url": "https://dill.moe",
+    "feed_url": "https://dill.moe/feed.json",
+    "user_comment": "",
+    "icon": "https://dill.moe/media/website/kiwi-chan.jpg",
+    "author": {
+        "name": "Cross Nastasi"
+    },
+    "items": [
+        {
+            "id": "https://dill.moe/social-links/",
+            "url": "https://dill.moe/social-links/",
+            "title": "Social Links",
+            "summary": "Facebook YouTube Bluesky Duolingo Kitsu",
+            "content_html": "<p><a href=\"https://www.facebook.com/xdillfrescott/\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a></p>\n<p><a href=\"https://www.youtube.com/@dill-frescott\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a></p>\n<p><a href=\"https://bsky.app/profile/dill.moe\" target=\"_blank\" rel=\"noopener noreferrer\">Bluesky</a></p>\n<p><a href=\"https://www.duolingo.com/profile/dillfrescott\" target=\"_blank\" rel=\"noopener noreferrer\">Duolingo</a></p>\n<p><a href=\"https://kitsu.io/users/dill\" target=\"_blank\" rel=\"noopener noreferrer\">Kitsu</a></p>",
+            "author": {
+                "name": "Cross Nastasi"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-14T20:31:37-05:00",
+            "date_modified": "2024-02-14T20:34:21-05:00"
+        }
+    ]
+}
