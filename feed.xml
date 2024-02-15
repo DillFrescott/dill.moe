@@ -3,7 +3,7 @@
     <title>dill.moe</title>
     <link href="https://dill.moe/feed.xml" rel="self" />
     <link href="https://dill.moe" />
-    <updated>2024-02-14T20:56:53-05:00</updated>
+    <updated>2024-02-14T21:03:34-05:00</updated>
     <author>
         <name>Cross Nastasi</name>
     </author>
@@ -38,10 +38,10 @@
         <link href="https://dill.moe/social-links/"/>
         <id>https://dill.moe/social-links/</id>
 
-        <updated>2024-02-14T20:34:21-05:00</updated>
+        <updated>2024-02-14T21:03:34-05:00</updated>
             <summary>
                 <![CDATA[
-                    Facebook YouTube Bluesky Duolingo Kitsu
+                    Facebook YouTube Bluesky Duolingo Kitsu ListenBrainz
                 ]]>
             </summary>
         <content type="html">
@@ -51,6 +51,7 @@
 <p><a href="https://bsky.app/profile/dill.moe" target="_blank" rel="noopener noreferrer">Bluesky</a></p>
 <p><a href="https://www.duolingo.com/profile/dillfrescott" target="_blank" rel="noopener noreferrer">Duolingo</a></p>
 <p><a href="https://kitsu.io/users/dill" target="_blank" rel="noopener noreferrer">Kitsu</a></p>
+<p><a href="https://listenbrainz.org/user/dillfrescott/" target="_blank" rel="noopener noreferrer">ListenBrainz</a></p>
             ]]>
         </content>
     </entry>
