@@ -10,5 +10,20 @@
         "name": "Cross Nastasi"
     },
     "items": [
+        {
+            "id": "https://dill.moe/a-bit-about-arnold-palmer/",
+            "url": "https://dill.moe/a-bit-about-arnold-palmer/",
+            "title": "A Bit About Arnold Palmer",
+            "summary": "The Arnold Palmer, a delightful beverage named after the legendary golfer, is&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dill.moe/media/posts/5/ARNOLD-PALMER-DRINK-2.jpg\" alt=\"\" width=\"276\" height=\"414\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://dill.moe/media/posts/5/responsive/ARNOLD-PALMER-DRINK-2-xs.jpg 320w ,https://dill.moe/media/posts/5/responsive/ARNOLD-PALMER-DRINK-2-sm.jpg 480w ,https://dill.moe/media/posts/5/responsive/ARNOLD-PALMER-DRINK-2-md.jpg 768w ,https://dill.moe/media/posts/5/responsive/ARNOLD-PALMER-DRINK-2-xl.jpg 1024w\"></figure>\n<p>The Arnold Palmer, a delightful beverage named after the legendary golfer, is a harmonious blend of iced tea and lemonade, creating a symphony of flavors that tantalizes the taste buds and refreshes the spirit. This iconic drink is renowned for its perfect balance of sweetness and tartness, making it an instant favorite among both avid tea drinkers and lemonade enthusiasts alike.</p>\n<p>What makes the Arnold Palmer truly exceptional is its versatility. Whether sipped leisurely on a hot summer day or enjoyed as a revitalizing pick-me-up during any season, this timeless concoction never fails to deliver satisfaction. Its crispness invigorates the senses, while its smooth texture glides over the palate with effortless grace, leaving behind a lingering sensation of pure refreshment.</p>\n<p>Beyond its impeccable taste, the Arnold Palmer carries with it a sense of tradition and nostalgia. Originating as a custom order by Arnold Palmer himself, this beverage has transcended its humble beginnings to become a beloved classic enjoyed by people of all ages across the globe. Its simplicity belies its impact, as it continues to evoke fond memories of lazy afternoons spent with loved ones and cherished moments shared among friends.</p>\n<p>In addition to its irresistible flavor and sentimental value, the Arnold Palmer embodies the essence of relaxation and enjoyment. Whether enjoyed on the golf course, at a picnic, or simply lounging at home, this timeless drink has the remarkable ability to elevate any moment, turning the ordinary into something truly extraordinary. With its enduring popularity and universal appeal, the Arnold Palmer stands as a testament to the enduring power of simplicity and the joy found in life's simplest pleasures.</p>",
+            "author": {
+                "name": "Cross Nastasi"
+            },
+            "tags": [
+                   "blog"
+            ],
+            "date_published": "2024-02-15T17:14:12-05:00",
+            "date_modified": "2024-02-15T17:19:44-05:00"
+        }
     ]
 }
