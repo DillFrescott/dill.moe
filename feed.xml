@@ -3,7 +3,7 @@
     <title>dill.moe</title>
     <link href="https://dill.moe/feed.xml" rel="self" />
     <link href="https://dill.moe" />
-    <updated>2024-02-14T21:03:34-05:00</updated>
+    <updated>2024-02-14T21:10:09-05:00</updated>
     <author>
         <name>Cross Nastasi</name>
     </author>
@@ -38,16 +38,19 @@
         <link href="https://dill.moe/social-links/"/>
         <id>https://dill.moe/social-links/</id>
 
-        <updated>2024-02-14T21:03:34-05:00</updated>
+        <updated>2024-02-14T21:10:09-05:00</updated>
             <summary>
                 <![CDATA[
-                    Facebook YouTube Bluesky Duolingo Kitsu ListenBrainz
+                    Facebook Instagram Threads YouTube GitHub Bluesky Duolingo Kitsu ListenBrainz
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><a href="https://www.facebook.com/xdillfrescott/" target="_blank" rel="noopener noreferrer">Facebook</a></p>
+<p><a href="https://www.instagram.com/xdillfrescott/" target="_blank" rel="noopener noreferrer">Instagram</a></p>
+<p><a href="https://www.threads.net/@xdillfrescott" target="_blank" rel="noopener noreferrer">Threads</a></p>
 <p><a href="https://www.youtube.com/@dill-frescott" target="_blank" rel="noopener noreferrer">YouTube</a></p>
+<p><a href="https://github.com/dillfrescott" target="_blank" rel="noopener noreferrer">GitHub</a></p>
 <p><a href="https://bsky.app/profile/dill.moe" target="_blank" rel="noopener noreferrer">Bluesky</a></p>
 <p><a href="https://www.duolingo.com/profile/dillfrescott" target="_blank" rel="noopener noreferrer">Duolingo</a></p>
 <p><a href="https://kitsu.io/users/dill" target="_blank" rel="noopener noreferrer">Kitsu</a></p>
