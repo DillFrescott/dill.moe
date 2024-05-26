@@ -3,7 +3,7 @@
     <title>dill.moe</title>
     <link href="https://dill.moe/feed.xml" rel="self" />
     <link href="https://dill.moe" />
-    <updated>2024-05-26T02:49:03-04:00</updated>
+    <updated>2024-05-26T02:53:42-04:00</updated>
     <author>
         <name>Cross Nastasi</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://dill.moe/what-if-porter-robinson-released-knock-yourself-out-xd-in-2021/"/>
         <id>https://dill.moe/what-if-porter-robinson-released-knock-yourself-out-xd-in-2021/</id>
+            <category term="Blog"/>
 
         <updated>2024-05-26T02:39:00-04:00</updated>
             <summary>
@@ -30,7 +31,7 @@
 <p><br>The main changes are the addition of the "nurture" voice which is just a pitched up and formant adjusted version of Porter's own voice.</p>
 <p>I layered this with his original voice with tons of mastering and post processing such as vocal doubling and a stereo enhancer on the original base voice.</p>
 <p>To get the stems I used a band-split roformer model, which is a neural network designed to split vocals from instrumentals. I hand adjusted the model's configuration for improved results.</p>
-<p>Another major addition is the subtle but impactful "aaahhhs" added to the chorus and other louder parts of the song. It's sort of a choir holding a single note, which was achieved by time stretching porters voice and applying a convolver to it with a "white noise blur" (heavily adjusted). It resulted in that Nurturey sort of emotional anime vibe.</p>
+<p>Another major addition is the subtle but impactful "aaahhhs" added to the chorus and other louder parts of the song. It's sort of a choir holding a single note, which was achieved by time stretching porters voice and applying a convolver to it with a "white noise blur" (heavily adjusted). It resulted in that nurturey sort of emotional anime vibe.</p>
 <p>I bit crushed the very beginning of the song, as well as another part of the song that plays the square wave lead. This leads to a more arcade, "worlds" type sound. Which I think is really cool!</p>
 <p>The final addition I did was that I added a Japanese train announcement towards the end of the song with heavy reverb and some equalization. This really adds to the whole "anime theme" that is present in both worlds and nurture.</p>
 <p>Overall, this took me about 2 ish hours to get right. Mostly the balancing, effects, and getting everything juuuust right!<br><br>The final sound is rich, full, and IMO, it sounds professionally produced and possibly even better than the original song by Porter.<br><br>Here is the song! I hope you enjoy it as much as I did making it! :)</p>
