@@ -3,7 +3,7 @@
     <title>dill.moe</title>
     <link href="https://dill.moe/feed.xml" rel="self" />
     <link href="https://dill.moe" />
-    <updated>2024-05-26T02:53:42-04:00</updated>
+    <updated>2024-05-26T19:33:54-04:00</updated>
     <author>
         <name>Cross Nastasi</name>
     </author>
@@ -27,15 +27,18 @@
         <content type="html">
             <![CDATA[
                 <p>I really wanted to take KNOCK YOURSELF OUT XD by Porter Robinson and add a Nurture/Worlds flare to it. And I finally did just that.</p>
-<figure class="post__image"><img loading="lazy"  src="https://dill.moe/media/posts/9/Screenshot-2024-05-26-023555.png" alt="The FL Studio Project" width="1917" height="1028" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://dill.moe/media/posts/9/responsive/Screenshot-2024-05-26-023555-xs.png 320w ,https://dill.moe/media/posts/9/responsive/Screenshot-2024-05-26-023555-sm.png 480w ,https://dill.moe/media/posts/9/responsive/Screenshot-2024-05-26-023555-md.png 768w ,https://dill.moe/media/posts/9/responsive/Screenshot-2024-05-26-023555-xl.png 1024w"><figcaption>The FL Studio Project</figcaption></figure>
+<figure class="post__image" ><img loading="lazy" src="https://dill.moe/media/posts/9/Screenshot-2024-05-26-192637.png" alt="" width="1918" height="1029" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://dill.moe/media/posts/9/responsive/Screenshot-2024-05-26-192637-xs.png 320w ,https://dill.moe/media/posts/9/responsive/Screenshot-2024-05-26-192637-sm.png 480w ,https://dill.moe/media/posts/9/responsive/Screenshot-2024-05-26-192637-md.png 768w ,https://dill.moe/media/posts/9/responsive/Screenshot-2024-05-26-192637-xl.png 1024w">
+<figcaption >The FL Studio Project</figcaption>
+</figure>
 <p><br>The main changes are the addition of the "nurture" voice which is just a pitched up and formant adjusted version of Porter's own voice.</p>
 <p>I layered this with his original voice with tons of mastering and post processing such as vocal doubling and a stereo enhancer on the original base voice.</p>
 <p>To get the stems I used a band-split roformer model, which is a neural network designed to split vocals from instrumentals. I hand adjusted the model's configuration for improved results.</p>
 <p>Another major addition is the subtle but impactful "aaahhhs" added to the chorus and other louder parts of the song. It's sort of a choir holding a single note, which was achieved by time stretching porters voice and applying a convolver to it with a "white noise blur" (heavily adjusted). It resulted in that nurturey sort of emotional anime vibe.</p>
 <p>I bit crushed the very beginning of the song, as well as another part of the song that plays the square wave lead. This leads to a more arcade, "worlds" type sound. Which I think is really cool!</p>
-<p>The final addition I did was that I added a Japanese train announcement towards the end of the song with heavy reverb and some equalization. This really adds to the whole "anime theme" that is present in both worlds and nurture.</p>
-<p>Overall, this took me about 2 ish hours to get right. Mostly the balancing, effects, and getting everything juuuust right!<br><br>The final sound is rich, full, and IMO, it sounds professionally produced and possibly even better than the original song by Porter.<br><br>Here is the song! I hope you enjoy it as much as I did making it! :)</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/MpkHhYgN6b8?si=tthv7HnHCfFqamzz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p>I ran the roformer instrumental stem through finetuned demucs, which can split the track into 4 stems, being: Vocals (which is irrelevant), Other, Bass, and Drums. The track I specifically targeted was the "Other" which contains everything except the others, and usually contains synths, guitars, piano, etc. I put this once at the beginning of the song, and a second time at the beginning of the second chorus, with that one having a sweeping highpass filter to give an "opening up" effect.</p>
+<p>Overall, this took me about 2 ish hours to get right. Mostly the balancing, effects, and getting everything juuuust right!</p>
+<p>The final sound is rich, full, and IMO, it sounds professionally produced and possibly even better than the original song by Porter.<br><br>Here is the song! I hope you enjoy it as much as I did making it! :)</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/pEL-m3-1_E0?si=aMPd1U9mKLWEmTCL" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
