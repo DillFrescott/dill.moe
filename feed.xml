@@ -3,7 +3,7 @@
     <title>dill.moe</title>
     <link href="https://dill.moe/feed.xml" rel="self" />
     <link href="https://dill.moe" />
-    <updated>2024-05-26T22:45:40-04:00</updated>
+    <updated>2024-05-26T22:47:25-04:00</updated>
     <author>
         <name>Cross Nastasi</name>
     </author>
@@ -37,7 +37,7 @@
 <p>I bit crushed the very beginning of the song, as well as another part of the song that plays the square wave lead. This leads to a more arcade, "worlds" type sound. Which I think is really cool!</p>
 <p>I ran the roformer instrumental stem through finetuned demucs, which can split the track into 4 stems, being: Vocals (which is irrelevant), Other, Bass, and Drums. The track I specifically targeted was the "Other" which contains everything except the others, and usually contains synths, guitars, piano, etc. I put this once at the beginning of the song, and a second time at the beginning of the second chorus, with that one having a sweeping highpass filter to give an "opening up" effect.</p>
 <p>Overall, this took me about 2 ish hours to get right. Mostly the balancing, effects, and getting everything juuuust right!</p>
-<p>The final sound is rich, full, and IMO, it sounds professionally produced and possibly the same level of mastering and production as the original (my opinion).<br><br>Here is the song! I hope you enjoy it as much as I did making it! :)</p>
+<p>The final sound is rich, full, and IMO, it sounds professionally produced and possibly the same level of mastering and production as the original.<br><br>Here is the song! I hope you enjoy it as much as I did making it! :)</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/pEL-m3-1_E0?si=aMPd1U9mKLWEmTCL" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
