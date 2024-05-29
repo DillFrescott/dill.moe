@@ -3,7 +3,7 @@
     <title>dill.moe</title>
     <link href="https://dill.moe/feed.xml" rel="self" />
     <link href="https://dill.moe" />
-    <updated>2024-05-26T22:47:25-04:00</updated>
+    <updated>2024-05-29T05:14:37-04:00</updated>
     <author>
         <name>Cross Nastasi</name>
     </author>
@@ -33,7 +33,7 @@
 <p><br>The main changes are the addition of the "nurture" voice which is just a pitched up and formant adjusted version of Porter's own voice.</p>
 <p>I layered this with his original voice with tons of mastering and post processing such as vocal doubling and a stereo enhancer on the original base voice.</p>
 <p>To get the stems I used a band-split roformer model, which is a neural network designed to split vocals from instrumentals. I hand adjusted the model's configuration for improved results.</p>
-<p>Another major addition is the subtle but impactful "aaahhhs" added to the chorus and other louder parts of the song. It's sort of a choir holding a single note, which was achieved by time stretching porters voice and applying a convolver to it with a "white noise blur" (heavily adjusted). It resulted in that nurturey sort of emotional anime vibe.</p>
+<p>Another major addition is the subtle but impactful "aaahhhs" added to the chorus and other louder parts of the song. It's sort of a choir holding a single note, which was achieved by time stretching Porter's (pitched) voice and applying a convolver to it with a "white noise blur" (heavily adjusted). It resulted in that nurturey sort of emotional anime vibe.</p>
 <p>I bit crushed the very beginning of the song, as well as another part of the song that plays the square wave lead. This leads to a more arcade, "worlds" type sound. Which I think is really cool!</p>
 <p>I ran the roformer instrumental stem through finetuned demucs, which can split the track into 4 stems, being: Vocals (which is irrelevant), Other, Bass, and Drums. The track I specifically targeted was the "Other" which contains everything except the others, and usually contains synths, guitars, piano, etc. I put this once at the beginning of the song, and a second time at the beginning of the second chorus, with that one having a sweeping highpass filter to give an "opening up" effect.</p>
 <p>Overall, this took me about 2 ish hours to get right. Mostly the balancing, effects, and getting everything juuuust right!</p>
