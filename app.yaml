@@ -9,7 +9,11 @@ handlers:
   - url: /
     static_files: index.html
     upload: index.html
-  # Serve index.html files in subdirectories (with and without trailing slash)
+  # Serve index.html files in subdirectories (with trailing slash)
+  - url: /(.+)/
+    static_files: \1/index.html
+    upload: .+/index\.html
+  # Serve index.html files in subdirectories (without trailing slash)
   - url: /(.+)
     static_files: \1/index.html
     upload: .+/index\.html
