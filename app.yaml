@@ -1,0 +1,15 @@
+runtime: python39
+service: dillmoe
+handlers:
+  # Serve the index.html file when the root URL (/) is requested
+  - url: /
+    static_files: index.html
+    upload: index.html
+
+  # Serve all other static files
+  - url: /(.*)
+    static_files: \1
+    upload: (.*)
+
+# Optional: Configure default expiration for static content
+default_expiration: "30d"
