@@ -5,21 +5,17 @@ handlers:
   - url: /(call|nzp|director)
     static_files: \1.html
     upload: (call|nzp|director)\.html
-
   # Serve index.html for the root path
   - url: /
     static_files: index.html
     upload: index.html
-
-  # Serve index.html files in subdirectories
-  - url: /(.+)/
+  # Serve index.html files in subdirectories (with and without trailing slash)
+  - url: /(.+)
     static_files: \1/index.html
     upload: .+/index\.html
-
   # Serve all other static files
   - url: /(.*)
     static_files: \1
     upload: (.*)
-
 # Optional: Configure default expiration for static content
 default_expiration: "30d"
