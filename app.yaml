@@ -2,9 +2,9 @@ runtime: python39
 service: dillmoe
 handlers:
   # Serve specific HTML files
-  - url: /(call|nzp|photos|director)
+  - url: /(call|nzp|director)
     static_files: \1.html
-    upload: (call|nzp|photos|director)\.html
+    upload: (call|nzp|director)\.html
 
   # Serve index.html for the root path
   - url: /
