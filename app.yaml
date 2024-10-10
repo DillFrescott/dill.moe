@@ -5,21 +5,22 @@ handlers:
   - url: /(call|nzp|director)
     static_files: \1.html
     upload: (call|nzp|director)\.html
-  # Serve index.html for the root path
-  - url: /
-    static_files: index.html
-    upload: index.html
-  # Serve index.html files in subdirectories (with trailing slash)
-  - url: /(.+)/
-    static_files: \1/index.html
-    upload: .+/index\.html
-  # Serve index.html files in subdirectories (without trailing slash)
-  - url: /(.+)
-    static_files: \1/index.html
-    upload: .+/index\.html
+
+  # Serve index.html for the root path and subdirectories
+  - url: /(.*/)?$
+    static_files: \1index.html
+    upload: (.*)/index\.html
+
   # Serve all other static files
   - url: /(.*)
     static_files: \1
     upload: (.*)
+
+  # Explicitly serve SVG files
+  - url: /assets/svg/(.*\.svg)
+    mime_type: image/svg+xml
+    static_files: assets/svg/\1
+    upload: assets/svg/.*\.svg
+
 # Optional: Configure default expiration for static content
 default_expiration: "30d"
