@@ -1,31 +1,20 @@
 runtime: python39
 service: dillmoe
-
 handlers:
+  # Serve specific HTML files
+  - url: /(call|nzp|photos|director)
+    static_files: \1.html
+    upload: (call|nzp|photos|director)\.html
+
+  # Serve index.html for the root path
   - url: /
     static_files: index.html
     upload: index.html
 
-  - url: /call
-    static_files: call.html
-    upload: call.html
-
-  - url: /nzp
-    static_files: nzp.html
-    upload: nzp.html
-
-  - url: /photos
-    static_files: photos.html
-    upload: photos.html
-
-  - url: /director
-    static_files: director.html
-    upload: director.html
-
-  # Serve index.html inside any subdirectory when /dir is requested
-  - url: /(.*)/?
+  # Serve index.html files in subdirectories
+  - url: /(.+)/
     static_files: \1/index.html
-    upload: (.*)/index.html
+    upload: .+/index\.html
 
   # Serve all other static files
   - url: /(.*)
